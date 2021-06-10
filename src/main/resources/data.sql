@@ -1,0 +1,13 @@
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Zeus', '2019-07-25', 35.50 , NOW());
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Thor', '2018-09-10', 55.90 , NOW());
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Loki', '2017-06-13', 45.50 , NOW());
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Aries', '2016-04-1', 25.00 , NOW());
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Afrodite', '2019-06-12', 25.85 , NOW());
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Dionísio', '2014-07-25', 45.85 , NOW());
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Poseidon', '2020-01-12', 28.50 , NOW());
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Hades', '2019-03-25', 35.50 , NOW());
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Thanatos', '2015-08-25', 60.50 , NOW());
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Hermes', '2018-08-15', 45.50 , NOW());
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Kratos', '2021-01-01', 25.50 , NOW());
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Link', '2016-12-12', 55.75 , NOW());
+INSERT INTO tb_pet (name, birth_Date, weight, created_At) VALUES ('Dante', '2020-02-27', 60.50 , NOW());
